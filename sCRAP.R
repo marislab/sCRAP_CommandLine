@@ -1,3 +1,11 @@
+#############################################################
+# selective Cross Reactive Antigen Presentation (sCRAP)
+# (Feb 2023 edit - Original code published in 2021)
+# Alvin Farrel, Mark Yarmarkovic 
+# Maris Lab
+# Children's Hospital of Philadelphia
+# Feb 19 2023
+#############################################################
 
 suppressPackageStartupMessages(library(optparse))
 
